@@ -1,4 +1,4 @@
-This file contains code used to create a relational database on "celestial bodies", which was a part of freeCodeCamp's project challenge.
+This file contains code used to create a relational database on "celestial bodies", which was part of freeCodeCamp's project challenge.
 
 Tasks completed and availble in this file:
 
